@@ -6,7 +6,7 @@ from msrestazure.azure_active_directory import MSIAuthentication, ServicePrincip
 app = Flask(__name__)
 
 KEY_VAULT_URI = "https://ethosmetric.vault.azure.net/"
-
+#test
 
 def get_key_vault_credentials():
     if "APPSETTING_WEBSITE_SITE_NAME" in os.environ:
