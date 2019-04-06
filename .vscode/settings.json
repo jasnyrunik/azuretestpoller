@@ -1,7 +1,0 @@
-{
-    "appService.defaultWebAppToDeploy": "/subscriptions/cb4b2f90-d7de-47bc-9142-4ee376841f04/resourceGroups/EthosMetricPoll/providers/Microsoft.Web/sites/EthosMetricPoll",
-    "appService.deploySubpath": "",
-    "appService.zipIgnorePattern": [
-        ".vscode{,/**}"
-    ]
-}
